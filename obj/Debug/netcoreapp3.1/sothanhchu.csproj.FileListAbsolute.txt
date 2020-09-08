@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\sothanhchu\bin\Debug\netcoreapp3.1\sothanhchu.exe
+C:\Users\Administrator\source\repos\sothanhchu\bin\Debug\netcoreapp3.1\sothanhchu.deps.json
+C:\Users\Administrator\source\repos\sothanhchu\bin\Debug\netcoreapp3.1\sothanhchu.runtimeconfig.json
+C:\Users\Administrator\source\repos\sothanhchu\bin\Debug\netcoreapp3.1\sothanhchu.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\sothanhchu\bin\Debug\netcoreapp3.1\sothanhchu.dll
+C:\Users\Administrator\source\repos\sothanhchu\bin\Debug\netcoreapp3.1\sothanhchu.pdb
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.dll
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.pdb
+C:\Users\Administrator\source\repos\sothanhchu\obj\Debug\netcoreapp3.1\sothanhchu.genruntimeconfig.cache
