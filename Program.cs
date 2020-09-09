@@ -27,16 +27,16 @@ namespace sothanhchu
                         Console.Write("ba trăm ");
                         break;
                     case 4:
-                        Console.Write("bon trăm ");
+                        Console.Write("bốn trăm ");
                         break;
                     case 5:
-                        Console.Write("nam trăm ");
+                        Console.Write("năm trăm ");
                         break;
                     case 6:
-                        Console.Write("sau trăm ");
+                        Console.Write("sáu trăm ");
                         break;
                     case 7:
-                        Console.Write("bay trăm ");
+                        Console.Write("bảy trăm ");
                         break;
                     case 8:
                         Console.Write("tám trăm ");
@@ -48,7 +48,7 @@ namespace sothanhchu
                 switch (c)
                 {
                     case 0:
-                        if (d == 0) Console.Write("chan ");
+                        if (d == 0) Console.Write("Không ");
                         else
                             Console.Write(" lẻ ");
                         break;
